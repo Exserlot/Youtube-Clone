@@ -4,4 +4,4 @@
 
 _Note: This project can't open with Incognito Mode_
 
-[ShareMe Project](https://exserlotyoutubeclone.netlify.app/)
+[Youtube Clone](https://exserlotyoutubeclone.netlify.app/)
